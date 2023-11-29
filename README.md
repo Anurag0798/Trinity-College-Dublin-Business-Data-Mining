@@ -2,7 +2,7 @@
 
 The README file explains the steps taken to carryout the entire Business Analytics Data Mining project on BharatTel Telecom Churn
 
-Dataset loading and dimension check - from line 1 to 6<br />
+Dataset loading and dimension check - from line 1 to 6 <br />
 EDA - From line 7 to 56<br />
 Data Preprocessing - from line 58 to 225<br />
 K-Nearest Neighbour model - from line 231 to 261<br />
