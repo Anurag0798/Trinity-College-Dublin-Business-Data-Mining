@@ -525,7 +525,7 @@ text(0.8, 0.2, paste("AUC =", round(auc_value_nn, 2)), col = "blue", cex = 1.2)
 
 #Plotting ROC curves for all
 #Plot the first ROC curve
-plot(roc_curve_knn, col = "blue", lwd = 2, main = "ROC Curves Comparison", col.main = "black", cex.main = 1.2)
+plot(roc_curve_knn, col = "blue", lwd = 2, main = "ROC Curves Comparison", col.main = "black", cex.main = 1.2, xlab = "1 - Specificity: False Positive Rate", ylab = "Sensitivity: True Positive Rate")
 
 #Add the second ROC curve to the plot
 lines(roc_curve_log, col = "red", lwd = 2)
