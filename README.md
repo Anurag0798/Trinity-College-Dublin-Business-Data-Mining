@@ -1,6 +1,6 @@
 # Trinity-College-Dublin-Business-Data-Mining
 
-The README file explains the steps taken to carryout the entire Business Analytics Data Mining project on BharatTel Telecom Churn
+The README file explains the sequential steps taken to carryout the entire Business Analytics Data Mining project on BharatTel Telecom Churn.
 
 Dataset loading and dimension check - from line 1 to 6 <br />
 EDA - From line 7 to 56 <br />
